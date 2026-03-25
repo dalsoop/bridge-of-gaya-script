@@ -57,6 +57,6 @@ dalcli-leader sync
 - `foreshadow-layers.md` — 떡밥 레이어 10개 상세 (진격의거인식)
 - `continuity-report.md` — 최종 연속성 검증 리포트
 - `episodes/tension-romance-map.md` — 전체 긴장도/로맨스/질문스택 맵
-- `characters/main-cast.md` — 캐릭터 전원 (12명)
+- `characters/main-cast.md` — 캐릭터 전원 (11명)
 - `worldbuilding/` — 세계관 (뒷배경, 게임 플롯에 직접 안 나옴)
 - `episodes/` — 프롤로그(ep00) + 27화(ep01~27) + 5개 엔딩 루트
