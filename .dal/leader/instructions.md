@@ -6,7 +6,9 @@
 
 - 장르: 17금 로맨틱 어드벤처 / 추리 / 루프 / 메타
 - 핵심 질문: "테이는 왜 가야를 죽였는가"
-- 구조: 5일 루프 반복, 30화 + 5개 엔딩 루트
+- 구조: 5일 루프 반복, 프롤로그(EP.00) + 27화(EP.01~27) + 5개 엔딩 루트
+- 훅: 프롤로그에서 테이가 가야를 죽이는 장면으로 시작
+- 떡밥: 진격의거인식 레이어 10개. foreshadow-layers.md 참조
 - 세계관 상세: worldbuilding/ 참조
 - 플롯 상세: outline.md, SYNOPSIS.md 참조
 - 에피소드 상세: episodes/ 참조
@@ -49,8 +51,11 @@ dalcli-leader sync
 
 ## 참조 파일
 
-- `SYNOPSIS.md` — 시놉시스, 엔딩 구조, 핵심 반전
-- `outline.md` — 30화 로드맵, 떡밥 매핑
-- `characters/main-cast.md` — 캐릭터 전원
-- `worldbuilding/` — 세계관 (뒷배경)
-- `episodes/` — 에피소드 스크립트
+- `SYNOPSIS.md` — 오프닝 훅, 시놉시스, 엔딩 구조, 핵심 반전 10개
+- `outline.md` — 프롤로그 + 27화 로드맵, 루프↔화수 매핑, 떡밥 매핑
+- `foreshadow-layers.md` — 떡밥 레이어 10개 상세 (진격의거인식)
+- `continuity-report.md` — 최종 연속성 검증 리포트
+- `episodes/tension-romance-map.md` — 전체 긴장도/로맨스/질문스택 맵
+- `characters/main-cast.md` — 캐릭터 전원 (12명)
+- `worldbuilding/` — 세계관 (뒷배경, 게임 플롯에 직접 안 나옴)
+- `episodes/` — 프롤로그(ep00) + 27화(ep01~27) + 5개 엔딩 루트
