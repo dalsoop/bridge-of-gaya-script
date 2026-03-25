@@ -51,6 +51,10 @@ dalcli report "<message>"
 
 ## 참조 파일
 
-- `outline.md` — 30화 로드맵, 기존 떡밥 매핑
+- `foreshadow-layers.md` — **핵심.** 떡밥 레이어 10개 상세 (architect 산출물)
+- `outline.md` — 프롤로그 + 27화 로드맵, 떡밥 매핑
 - `SYNOPSIS.md` — 핵심 반전 10개, 엔딩 구조
+- `continuity-report.md` — 최종 연속성 검증 리포트
+- `episodes/tension-romance-map.md` — 전체 긴장도/로맨스/질문스택 맵
 - `episodes/` — 각 화 상세 (Plant/Payoff 테이블 포함)
+- `episodes/ep00-prologue.md` — 프롤로그 (게임 전체의 훅)
