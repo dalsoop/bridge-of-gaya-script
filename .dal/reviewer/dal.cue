@@ -1,6 +1,7 @@
+dalroot: "@dalroot-1-0-5"
 uuid:    "gaya-reviewer-20260326"
 name:    "reviewer"
-version: "1.0.0"
+version: "1.1.0"
 player:  "codex"
 role:    "member"
 skills:  ["skills/plot-review", "skills/foreshadow-check", "skills/continuity-checker", "skills/aot-narrative", "skills/original-intent"]

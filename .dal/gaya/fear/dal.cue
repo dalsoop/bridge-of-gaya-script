@@ -1,6 +1,7 @@
+dalroot: "@dalroot-1-1-2"
 uuid:    "gaya-fear-20260325"
 name:    "fear"
-version: "1.0.0"
+version: "1.1.0"
 player:  "claude"
 role:    "member"
 skills:  ["skills/character-voice"]

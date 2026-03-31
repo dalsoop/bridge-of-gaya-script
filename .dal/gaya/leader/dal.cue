@@ -1,6 +1,7 @@
+dalroot: "@dalroot-1-1-0"
 uuid:    "gaya-core-20260325"
 name:    "gaya"
-version: "1.0.0"
+version: "1.1.0"
 player:  "claude"
 role:    "leader"
 skills:  ["skills/personality-sync", "skills/night-synthesis", "skills/character-voice", "skills/romance-beat"]
