@@ -1,6 +1,7 @@
+dalroot: "@dalroot-1-1-3"
 uuid:    "gaya-cynical-20260325"
 name:    "cynical"
-version: "1.0.0"
+version: "1.1.0"
 player:  "claude"
 role:    "member"
 skills:  ["skills/character-voice"]
