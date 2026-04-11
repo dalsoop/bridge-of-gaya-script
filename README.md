@@ -39,11 +39,22 @@ bridge-of-gaya-script/
 │   ├── dopamine-model.md    # 도파민 / 항상성 / 쾌락 모델
 │   └── gameplay.md          # 선택지 / 도구 / 도파민 설계
 ├── references/              # AI 대화 요약, 참고자료
-│   └── gemini-chatgpt-20260324.md
+│   ├── gemini-chatgpt-20260324.md
+│   └── recovered-wordpress/ # WordPress/백업에서 복구한 원천 스토리 자료
 └── episodes/                # 회차별 스크립트
     ├── ep01.md ~ ep30.md
     └── ...
 ```
+
+## Canon Note
+
+- 판타지 본편 세계관에서 왕 이름 표기는 `이든`으로 고정한다.
+- 영문 병기는 필요할 때만 보조적으로 `Eden`을 붙이고, 기본 표기는 항상 `이든`을 우선한다.
+
+## Recovered Sources
+
+- 복구된 WordPress 스토리/설정 문서는 `references/recovered-wordpress/` 아래에 둔다.
+- 여기에는 `가야의 연결점`, `시간의 잔해`, `소비마` 축 복구 메모와 관련 백업 정리가 들어간다.
 
 ## 회차 파일 컨벤션
 
